@@ -1,0 +1,29 @@
+DIAGNOSTICO CCEE - 2026-11-13T19:37:31.581046
+
+ANO: 2025
+STATUS: 403
+URL: https://dadosabertos.ccee.org.br/api/3/action/datastore_search?resource_id=2a180a6b-f092-43eb-9f82-a48798b803dc&limit=3&offset=0
+<meta charset="UTF-8"><title>Acesso bloqueado</title><link rel=icon href=data:,>
+<style>body{font:13px Arial;color:#555;max-width:580px;margin:12px auto;padding:10px}b{color:#0d0a6e}i{color:#888;font-style:normal}h1{font-size:24px;color:#0d0a6e;margin:0}h3{font-size:13px;color:#c0392b;margin:2px 0 12px}</style>
+<h1>CCEE</h1><h3>â acesso bloqueado Â· <i>access blocked</i></h3>
+<p>Seu acesso foi bloqueado por nÃ£o atender Ã s polÃ­ticas de seguranÃ§a da CCEE. Solicite ao seu time de SeguranÃ§a/TI a revisÃ£o das chamadas HTTPS/API e, se necessÃ¡rio, abra um chamado informando o Error Code e o IP abaixo.<br>
+<i>Access was blocked for not meeting CCEE security policies. Ask your Security/IT team to review HTTPS/API requests and, if needed, open a ticket with the Error Code and IP below.</i></p>
+<p><b>Error code:</b> 0.d1c41002.1794609448.1878ad9<br>
+<b>Date/time:</b> <span id=d></span><br>
+<b>IP:</b> 2804:f74:4109:3900:44b2:9fd1:ba47:2225</p>
+<p>0800 591 4185 Â· atendimento@ccee.org.br</p>
+<script>d.textContent=new Date().toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'})</script>
+
+ANO: 2026
+STATUS: 403
+URL: https://dadosabertos.ccee.org.br/api/3/action/datastore_search?resource_id=3f279d6b-1069-42f7-9b0a-217b084729c4&limit=3&offset=0
+<meta charset="UTF-8"><title>Acesso bloqueado</title><link rel=icon href=data:,>
+<style>body{font:13px Arial;color:#555;max-width:580px;margin:12px auto;padding:10px}b{color:#0d0a6e}i{color:#888;font-style:normal}h1{font-size:24px;color:#0d0a6e;margin:0}h3{font-size:13px;color:#c0392b;margin:2px 0 12px}</style>
+<h1>CCEE</h1><h3>â acesso bloqueado Â· <i>access blocked</i></h3>
+<p>Seu acesso foi bloqueado por nÃ£o atender Ã s polÃ­ticas de seguranÃ§a da CCEE. Solicite ao seu time de SeguranÃ§a/TI a revisÃ£o das chamadas HTTPS/API e, se necessÃ¡rio, abra um chamado informando o Error Code e o IP abaixo.<br>
+<i>Access was blocked for not meeting CCEE security policies. Ask your Security/IT team to review HTTPS/API requests and, if needed, open a ticket with the Error Code and IP below.</i></p>
+<p><b>Error code:</b> 0.d1c41002.1794609448.1878b1f<br>
+<b>Date/time:</b> <span id=d></span><br>
+<b>IP:</b> 2804:f74:4109:3900:44b2:9fd1:ba47:2225</p>
+<p>0800 591 4185 Â· atendimento@ccee.org.br</p>
+<script>d.textContent=new Date().toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'})</script>
