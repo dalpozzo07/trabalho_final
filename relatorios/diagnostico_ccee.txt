@@ -1,4 +1,4 @@
-DIAGNOSTICO CCEE - 2026-11-13T19:37:31.581046
+DIAGNOSTICO CCEE - 2026-11-13T20:35:31.542322
 
 ANO: 2025
 STATUS: 403
@@ -8,7 +8,7 @@ URL: https://dadosabertos.ccee.org.br/api/3/action/datastore_search?resource_id=
 <h1>CCEE</h1><h3>â acesso bloqueado Â· <i>access blocked</i></h3>
 <p>Seu acesso foi bloqueado por nÃ£o atender Ã s polÃ­ticas de seguranÃ§a da CCEE. Solicite ao seu time de SeguranÃ§a/TI a revisÃ£o das chamadas HTTPS/API e, se necessÃ¡rio, abra um chamado informando o Error Code e o IP abaixo.<br>
 <i>Access was blocked for not meeting CCEE security policies. Ask your Security/IT team to review HTTPS/API requests and, if needed, open a ticket with the Error Code and IP below.</i></p>
-<p><b>Error code:</b> 0.d1c41002.1794609448.1878ad9<br>
+<p><b>Error code:</b> 0.d1c41002.1794612929.21b1d56<br>
 <b>Date/time:</b> <span id=d></span><br>
 <b>IP:</b> 2804:f74:4109:3900:44b2:9fd1:ba47:2225</p>
 <p>0800 591 4185 Â· atendimento@ccee.org.br</p>
@@ -22,7 +22,7 @@ URL: https://dadosabertos.ccee.org.br/api/3/action/datastore_search?resource_id=
 <h1>CCEE</h1><h3>â acesso bloqueado Â· <i>access blocked</i></h3>
 <p>Seu acesso foi bloqueado por nÃ£o atender Ã s polÃ­ticas de seguranÃ§a da CCEE. Solicite ao seu time de SeguranÃ§a/TI a revisÃ£o das chamadas HTTPS/API e, se necessÃ¡rio, abra um chamado informando o Error Code e o IP abaixo.<br>
 <i>Access was blocked for not meeting CCEE security policies. Ask your Security/IT team to review HTTPS/API requests and, if needed, open a ticket with the Error Code and IP below.</i></p>
-<p><b>Error code:</b> 0.d1c41002.1794609448.1878b1f<br>
+<p><b>Error code:</b> 0.d1c41002.1794612929.21b1d80<br>
 <b>Date/time:</b> <span id=d></span><br>
 <b>IP:</b> 2804:f74:4109:3900:44b2:9fd1:ba47:2225</p>
 <p>0800 591 4185 Â· atendimento@ccee.org.br</p>
